@@ -1,0 +1,9 @@
+fire
+numpy
+pandas
+diskcache
+pandarallel
+geoparse
+# torch
+torchmetrics
+pytorch_lightning
